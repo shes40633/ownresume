@@ -81,11 +81,14 @@
     display: inline-block;
     margin-left: 50px;
     margin-top: 20px;
+    background-color: #24260f;
   }
   .contact p{
     margin: 10px 10px 0px 10px; 
     line-height: 20px; 
     font-size: 16px;
+    background-color: #24260f;
+    color:#f2f2e9;
   }
   
   

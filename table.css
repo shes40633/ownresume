@@ -96,9 +96,11 @@
   }
   .contact {
     display: inline-block;
-    margin-left: 10px;
+    margin-left: 5px;
     margin-top: 20px;
     background-color: #f2f2e9;
+    word-break: break-all;
+    margin-right: 22px;
   }
   .contact p{
     margin: 10px 10px 0px 10px; 

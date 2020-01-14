@@ -76,19 +76,36 @@
     background-color: #24260f;
     color: #f2f2e9;
   }
-  
-  .contact {
+  .connection{
     display: inline-block;
-    margin-left: 50px;
+    margin-left: 10px;
     margin-top: 20px;
     background-color: #24260f;
+    color:#f2f2e9;
+  }
+  .connection p{
+    background-color: #24260f;
+    color:#f2f2e9;
+    margin-left: 30px;
+  }
+  .connection img{
+    width: 25px;
+    height: 25px;
+    margin-top: 7px;
+    margin-left: 38px;
+  }
+  .contact {
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 20px;
+    background-color: #f2f2e9;
   }
   .contact p{
     margin: 10px 10px 0px 10px; 
     line-height: 20px; 
     font-size: 16px;
-    background-color: #24260f;
-    color:#f2f2e9;
+    background-color: #f2f2e9;
+    color:black;
   }
   
   
@@ -234,78 +251,15 @@
     margin-left: 10px;
   }
   
-  .chinese {
-    width: 150px;
-    height: 150px;
-    display: inline-block;
-    border-radius: 100%;
-    overflow: hidden;
-    margin: 30px 15px 0px 10px;
-    border: solid 5px #90a955;
-  }
-  .chinese h3 {
-    text-align: center;
-    margin-top: 40px;
-    font-weight: bold;
-    font-size: 16px;
-  }
-  .chinese h4 {
-    text-align: center;
-    margin-top: -20px;
-    color: #90a955;
-  }
-  
-  
-  
-  .outer-eng {
-    width: 150px;
-    height: 150px;
-    display: inline-block;
-    background: #c1d7ae;
-    border-radius: 100%;
-    position: relative;
-    overflow: hidden;
-    margin-top: 30px;
-    margin-left: 10px;
-  }
-  
-  .sq1-eng {
-    width: 75px;
-    height: 75px;
-    position: absolute;
-    left: 75px;
-    background-color: #90a955;
-  }
 
-  .sq2-eng {
-    width: 75px;
-    height: 75px;
-    position: absolute;
-    top: 75px;
-    background-color: #c1d7ae;
-  }
   
-  .inner-eng {
-    width: 140px;
-    height: 140px;
-    position: absolute;
-    border-radius: 100%;
-    top: 5px;
-    left: 5px;
-    background-color: #f2f2e9;
-    overflow: hidden;
-  }
-  .inner-eng h3 {
-    text-align: center;
-    margin-top: 40px;
-    font-weight: bold;
-    font-size: 16px;
-  }
-  .inner-eng h4 {
-    text-align: center;
-    margin-top: -20px;
-    color: #90a955;
-  }
+  
+  
+  
+  
+
+  
+ 
   
   .skills {
     height: 200px;
